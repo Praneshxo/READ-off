@@ -269,9 +269,8 @@ body {
   max-height: 140px;
   width: auto;
   height: auto;
-  margin-top: -48%;
-  margin-bottom: -75%;
-  position: relative;
+  margin-top: -3.5%;
+  position: absolute;
 }
 
 .nav-open-btn {
